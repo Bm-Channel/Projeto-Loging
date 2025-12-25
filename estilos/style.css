@@ -55,5 +55,13 @@ section#Login > div#imagem {
 section#Login > div#formulario {
     display: block;
     padding: 10px;
+}
 
+form > input[type=submit] {
+    display: block;
+    font-size: 1em;
+    width: 100%;
+    height: 40px;
+    background-color:#49a09d;
+    color: white;
 }
