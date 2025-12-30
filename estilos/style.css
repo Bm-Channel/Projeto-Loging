@@ -116,12 +116,10 @@ div.campo > input {
     padding: 4px;
     width: calc(100% - 44.5px);
     transform: translateY(-13px);
-    
-    
 }
 
 div.campo > input:focus-within {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border: none;
 }
 
@@ -139,5 +137,4 @@ form > a.botao:hover {
 
 form > a.botao > span.material-icons {
     font-size: 0.8em;
-  
 }
